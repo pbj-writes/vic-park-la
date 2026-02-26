@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{- $hero := resources.Get "media/victoria-park.jpg" -}}
+<section class="hero"{{ with $hero }} style="background-image: url('{{ .RelPermalink }}')"{{ end }}>
+  <div class="hero-content">
+    <h1>{{ .Site.Title }}</h1>
+    <p>A historic neighborhood in the heart of Los Angeles</p>
+    <a href="/about/" class="hero-btn">Learn More</a>
+  </div>
+</section>
+
+{{ if .Content }}
+<section class="section">
+  <div class="container">
+    <div class="page-body">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

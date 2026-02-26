@@ -1,0 +1,29 @@
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: About
+    url: /about/
+    weight: 20
+  - name: Committees
+    url: /committees/
+    weight: 30
+  - name: Safety & Security
+    url: /safety/
+    weight: 40
+  - name: Film
+    url: /film/
+    weight: 50
+  - name: Membership
+    url: /membership/
+    weight: 60
+  - name: Notable Residents
+    url: /notable-residents/
+    weight: 70
+  - name: LA Historic
+    url: /la-historic/
+    weight: 80
+  - name: Contact
+    url: /contact/
+    weight: 90
+

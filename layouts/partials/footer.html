@@ -1,0 +1,11 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">{{ .Site.Title }}</div>
+    <ul class="footer-nav" role="list">
+      {{- range .Site.Menus.main -}}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{- end -}}
+    </ul>
+    <p class="footer-copy">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+  </div>
+</footer>

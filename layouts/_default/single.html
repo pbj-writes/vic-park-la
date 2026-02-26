@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="page-content">
+  <div class="container">
+    <div class="page-layout">
+      <div class="page-main">
+        <h1>{{ .Title }}</h1>
+        <hr class="page-divider">
+        <div class="page-body">
+          {{ .Content }}
+        </div>
+      </div>
+      {{ with .TableOfContents }}
+      <aside class="page-toc">
+        <div class="toc-inner">
+          <p class="toc-title">On this page</p>
+          {{ . }}
+        </div>
+      </aside>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

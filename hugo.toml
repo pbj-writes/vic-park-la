@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Victoria Park'
+
+disableKinds = ['taxonomy', 'term']
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 6
+  ordered = false
+
+[params]
+  description = 'A historic neighborhood in Los Angeles, California.'
