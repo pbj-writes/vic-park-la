@@ -8,7 +8,7 @@ main:
   - name: Committees
     url: /committees/
     weight: 30
-  - name: Safety & Security
+  - name: Safety
     url: /safety/
     weight: 40
   - name: Film
