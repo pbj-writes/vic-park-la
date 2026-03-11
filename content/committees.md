@@ -6,14 +6,14 @@ Our work is led by volunteer committees focused on specific neighborhood needs. 
 
 Current Committees Include:
 
-- Neighborhood Safety - Lead Tom Teves
-- Communications  - Lead Vanessa Blais
-- Hospitality - Leads Ardella Robinson & Theo Bagsby 
-- Events & Community Building - Lead Nancy Tyler
-- Beautification/Clean up - Leads Nancy Tyler & Tanya Vidhyarkorn
-- Historic Preservation - Lead Matt Levine
-- Filming - Lead Vanessa Blais
-- Parking - Nancy Tyler (on hold for now as the city isn’t approving anything new but will keep it on the radar for the future)
+- Neighborhood Safety - Lead Tom T.
+- Communications  - Lead Vanessa B.
+- Hospitality - Leads Ardella R. & Theo B.
+- Events & Community Building - Lead Nancy T.
+- Beautification/Clean up - Leads Nancy T. & Tanya V.
+- Historic Preservation - Lead Matt L.
+- Filming - Lead Vanessa B.
+- Parking - Nancy T. (on hold for now as the city isn’t approving anything new but will keep it on the radar for the future)
 
 Interested in joining a committee or starting a new one?
 

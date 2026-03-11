@@ -2,8 +2,8 @@
 title: About Us
 ---
 
-
 The Victoria Park Association exists to:
+
 - Foster communication and community among neighbors
 - Advocate for neighborhood safety and infrastructure needs
 - Serve as a liaison with city agencies and local representatives
@@ -31,7 +31,7 @@ We are guided by transparency, collaboration, and respect for our diverse commun
 
 ### Mid–Late 20th Century
 
- Notable residents, including Miriam Matthews, first credentialed African American Librarian to be hired by the [LA Public Library](https://www.lapl.org), contribute to the cultural, educational, and civic life of Los Angeles while calling Victoria Park home.
+ Notable residents, including [**Miriam Matthews**](/notable-residents), the first credentialed African American Librarian to be hired by the [LA Public Library](https://www.lapl.org). She contributed to the cultural, educational, and civic life of Los Angeles while calling Victoria Park home.
 
 ### 2000s–Present
 
