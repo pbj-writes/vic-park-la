@@ -1,0 +1,75 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+
+media_folder: static/media
+public_folder: /media
+
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - name: home
+        label: Home
+        file: content/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: about
+        label: About Us
+        file: content/about.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: committees
+        label: Committees
+        file: content/committees.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: safety
+        label: Safety & Security
+        file: content/safety.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: membership
+        label: Membership
+        file: content/membership.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: film
+        label: Filming in Victoria Park
+        file: content/film.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: notable-residents
+        label: Notable Residents
+        file: content/notable-residents.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: la-historic
+        label: LA Historic-Cultural Monuments
+        file: content/la-historic.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+      - name: contact
+        label: Contact
+        file: content/contact.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
