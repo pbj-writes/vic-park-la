@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: main
+  site_domain: loquacious-gaufre-8d45a3.netlify.app
 
 publish_mode: editorial_workflow
 
