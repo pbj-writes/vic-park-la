@@ -5,8 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Victoria Park — Content Editor</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      #editor-notice {
+        background: #1a3a2a;
+        color: #fff;
+        text-align: center;
+        padding: 10px 16px;
+        font-family: sans-serif;
+        font-size: 14px;
+      }
+      #editor-notice strong {
+        color: #7ed6a8;
+      }
+    </style>
   </head>
   <body>
+    <div id="editor-notice">
+      When your edits are ready, set the status to <strong>"In Review"</strong> — PBJ will review and publish your changes.
+    </div>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>
