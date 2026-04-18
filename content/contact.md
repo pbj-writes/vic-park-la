@@ -1,7 +1,9 @@
 ---
 title: Contact Us
 ---
-Coming soon... 🔜
+* Xyz
+* 123
+* Abc
 
 <!--<iframe src="/media/contact.pdf" width="100%" height="700px" style="border: none;">
   <a href="/media/contact.pdf">Download contact information (PDF)</a>
