@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-
 ## Victoria Park Association
 
 *A historic neighborhood committed to safety, connection, and stewardship.*
