@@ -1,8 +1,7 @@
 ---
 title: Home
 ---
-
-## Victoria Park Association
+## Victoria Park Association Test
 
 *A historic neighborhood committed to safety, connection, and stewardship.*
 
