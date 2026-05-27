@@ -1,10 +1,11 @@
 ---
 title: Notable Residents
 ---
-
 ## Miriam Matthews (1905–2003)
 
 **Miriam Matthews** was a pioneering librarian, historian, and civic leader—and the **first Black professional librarian employed by the City of Los Angeles**. She was also a longtime resident of **Victoria Park**, where she lived for many years and remained deeply connected to the community.
+
+![](/media/miriam.webp "The Hyde Park Miriam Matthews Branch Library opened this building in 2004 and renamed it in honor of L.A.'s first Black librarian.")
 
 Matthews joined the Los Angeles Public Library in 1927 and spent more than four decades advancing access to information, education, and cultural history. Beyond her work as a librarian, she was a respected historian who dedicated her life to documenting and preserving African American history in Los Angeles at a time when it was often overlooked or excluded from official records.
 
@@ -14,4 +15,4 @@ Miriam Matthews was also an active civic participant, serving on numerous boards
 
 Her life and work reflect the broader history of Victoria Park as a neighborhood shaped by engaged residents who contributed meaningfully to Los Angeles civic life.
 
-More Information ➡️ [https://laist.com/brief/news/los-angeles-activities/la-public-library-to-celebrate-the-life-and-legacy-of-las-first-black-librarian-miriam-matthews](https://laist.com/brief/news/los-angeles-activities/la-public-library-to-celebrate-the-life-and-legacy-of-las-first-black-librarian-miriam-matthews)
+More Information ➡️ <https://laist.com/brief/news/los-angeles-activities/la-public-library-to-celebrate-the-life-and-legacy-of-las-first-black-librarian-miriam-matthews>
