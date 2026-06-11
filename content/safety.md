@@ -26,6 +26,23 @@ For **suspicious activity or real-time emergencies**: Call **911** if you witnes
 
 📌 Residents are encouraged to stay informed and report issues promptly using appropriate channels.
 
+## LAPD
+
+You may have to call LADP for emergency or non-emergency incidents. Be sure to call and report all incidents and then send your incident/report number to [victoriaparkassociationvb@gmail.com](mailto:victoriaparkassociationvb@gmail.com). 
+
+☎️ LAPD Phone Numbers
+- 9-1-1 (emergencies)
+- 1-877-ASK-LAPD or (1-877-275-5273) (non-emergencies)
+
+## Brystone Security
+
+After notifying LAPD of any incident, you may contact Brystone Security for assistance between 7:00 PM and 7:00 AM. If you reach voicemail, please leave a message and Brystone will either return your call promptly or dispatch a patrol to your location.
+
+☎️ Brystone Phone Number
+- 424-256-8620 
+
+📌 Brystone Security supplements, but does not replace, LAPD services.
+
 ## How to Use 311 (City Services)
 
 311 is the City of Los Angeles’ primary system for reporting non-emergency issues.
