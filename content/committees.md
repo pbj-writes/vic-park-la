@@ -11,6 +11,7 @@ Current Committees Include:
 * Events & Community Building - Lead Nancy T.
 * Beautification/Clean up - Leads Nancy T. 
 * Historic Preservation - Lead Matt L.
+* Block Captains - Lead Jason B.
 * Filming - Lead Vanessa B.
 * Parking - Nancy T. (on hold for now as the city isn’t approving anything new but will keep it on the radar for the future)
 
