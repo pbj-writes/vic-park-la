@@ -17,4 +17,4 @@ Current Committees Include:
 
 Interested in joining a committee or starting a new one?
 
-👉 Contact us at [victoriaparkassociationvb@gmail.com](mailto:victoriaparkassociationvb@gmail.com) or join the Association to get involved.
+👉 [Contact us](https://form.jotform.com/263219126898064) or [join the Victoria Park Neighborhood Association](https://form.jotform.com/261607223834051) to get involved.
