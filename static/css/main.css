@@ -11,7 +11,6 @@
   --color-nav-text: #fbf7f2;
   --color-nav-highlight: #0f0704;
   --color-heading: #5c2e0e;
-  --color-hero-overlay: rgba(44, 18, 5, 0.55);
 
   --font-heading: 'Outfit', system-ui, -apple-system, sans-serif;
   --font-body: 'Outfit', system-ui, -apple-system, sans-serif;
@@ -31,7 +30,6 @@
   --color-nav-text: #f5ece0;
   --color-nav-highlight: #e06838;
   --color-heading: #f5ece0;
-  --color-hero-overlay: rgba(0, 0, 0, 0.65);
 }
 
 /* ─── Reset & Base ─── */
@@ -254,68 +252,34 @@ li {
 /* ─── Hero ─── */
 .hero {
   position: relative;
-  min-height: 65vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-size: cover;
-  background-position: center;
-  background-color: var(--color-nav-bg);
+  padding: 2rem 1.25rem 0.5rem;
+  background-color: var(--color-bg);
   text-align: center;
   overflow: hidden;
 }
 
-.hero::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background-color: var(--color-hero-overlay);
+.hero-logo {
+  display: block;
+  width: min(34rem, 100%);
+  height: auto;
 }
 
-.hero-content {
-  position: relative;
-  z-index: 1;
-  padding: 2rem 1.5rem;
-  max-width: 720px;
-}
-
-.hero-content h1 {
-  color: #ffffff;
-  font-size: clamp(2.2rem, 7vw, 3.8rem);
-  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.45);
-  margin-bottom: 0.75rem;
-}
-
-.hero-content p {
-  color: rgba(255, 255, 255, 0.88);
-  font-size: clamp(1rem, 2.5vw, 1.25rem);
-  margin-bottom: 1.75rem;
-}
-
-.hero-btn {
-  display: inline-block;
-  padding: 0.75rem 2.25rem;
-  background-color: var(--color-accent);
-  color: #ffffff;
-  border-radius: 4px;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  font-size: 0.85rem;
-  text-decoration: none;
-  transition: background-color 0.15s ease, transform 0.15s ease;
-}
-
-.hero-btn:hover {
-  background-color: var(--color-accent-hover);
-  color: #ffffff;
-  text-decoration: none;
-  transform: translateY(-1px);
-}
+/* Logo swaps with the theme: navy lettering on light, cream lettering on dark */
+.hero-logo-dark { display: none; }
+[data-theme="dark"] .hero-logo-light { display: none; }
+[data-theme="dark"] .hero-logo-dark { display: block; }
 
 /* ─── Content Sections ─── */
 .section {
   padding: 4rem 0;
+}
+
+/* Keep homepage text close to the hero logo */
+.hero + .section {
+  padding-top: 1.5rem;
 }
 
 /* ─── Page Content (inner pages) ─── */
