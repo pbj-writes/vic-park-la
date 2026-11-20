@@ -5,7 +5,8 @@ Membership in the Victoria Park Association helps support:
 
 * Neighborhood communications
 * Safety and infrastructure advocacy
-* Community meetings and events
+* Community meetings 
+* Community social events
 * Administrative and website costs
 
 Membership is open to all Victoria Park residents.
