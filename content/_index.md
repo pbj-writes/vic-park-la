@@ -9,4 +9,4 @@ Victoria Park is a residential neighborhood in Mid-City Los Angeles, known for i
 
 We collaborate with neighbors, city departments, and local partners to keep Victoria Park informed, connected, and thriving.
 
-VPNA has standing representation on the [Mid City Neighborhood Council (MINC) Los Angeles](https://www.mincla.org/) - MINC was recently recognized with the Joy P. Atkinson Neighborhood Council Excellence Award for outstanding service to the community in the South Los Angeles region.
+VPNA has standing representation (Vanessa B.) on the [Mid City Neighborhood Council (MINC) Los Angeles](https://www.mincla.org/) - MINC was recently recognized with the Joy P. Atkinson Neighborhood Council Excellence Award for outstanding service to the community in the South Los Angeles region.
